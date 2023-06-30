@@ -78,11 +78,11 @@ ul li {
   padding: 1em;
   color: #fff;
   text-align: center;
+  text-decoration: none;
 }
 
 li:hover {
   cursor: pointer;
-  text-decoration: none;
 }
 
 .logo {
